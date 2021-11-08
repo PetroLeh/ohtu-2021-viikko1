@@ -4,3 +4,6 @@
 # ignore directories ___pycahce__ and .pytest_cache
 __pycache__/
 .pytest_cache/
+
+.coverage
+htmlcov/
